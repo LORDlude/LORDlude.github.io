@@ -68,9 +68,9 @@ title: 三下数学
   <img src="../../assets/配图/三下/小数1.png" alt="图1" width="48%" />
   <img src="../../assets/配图/三下/小数2.png" alt="图2" width="48%" />
 </p>
-<p class="img-row">
-  <img src="../../assets/配图/三下/小数3.png" alt="图3" />
-  <img src="../../assets/配图/三下/小数4.png" alt="图4" />
+<p align="center">
+  <img src="../../assets/配图/三下/小数3.png" alt="图1" width="48%" />
+  <img src="../../assets/配图/三下/小数4.png" alt="图2" width="48%" />
 </p>
 
 ## 第八单元 数学广角-搭配（二）<a name="数学广角-搭配（二）"></a>
