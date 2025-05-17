@@ -12,7 +12,7 @@
 
 ## 第一单元 位置与方向
 
-![必背知识点](../../assets/配图/三下/位置与方向.png)
+[![必背知识点](../../assets/配图/三下/位置与方向.png)](../../assets/配图/三下/位置与方向.png))
 
 ## 第二单元 除数是一位数的除法
 
@@ -35,5 +35,10 @@
   <img src="../../assets/配图/三下/两位数乘两位数2.png" alt="图2" width="33%" />
   <img src="../../assets/配图/三下/两位数乘两位数3.png" alt="图2" width="33%" />
 </p>
-
 ## 第五单元 面积
+
+<p align="center">
+  <img src="../../assets/配图/三下/面积1.png" alt="图1" width="33%" />
+  <img src="../../assets/配图/三下/面积2.png" alt="图2" width="33%" />
+  <img src="../../assets/配图/三下/面积3.png" alt="图2" width="33%" />
+</p>
