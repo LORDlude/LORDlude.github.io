@@ -1,9 +1,9 @@
 ---
 layout: default
-title: math
+title: 三下数学 
 ---
 
-# 总目录
+# 三下数学总目录
 
 [第一单元](# 第一单元-位置与方向)
 
@@ -14,6 +14,12 @@ title: math
 [第四单元](#第四单元-两位数乘两位数)
 
 [第五单元](#第五单元-面积)
+
+[第六单元](#第六单元-年月日)
+
+[第七单元](#第七单元-小数的初步认识)
+
+[第八单元](#数学广角-搭配（二）)
 
 ## 第一单元 位置与方向
 
@@ -47,3 +53,26 @@ title: math
   <img src="../../assets/配图/三下/面积2.png" alt="图2" width="33%" />
   <img src="../../assets/配图/三下/面积3.png" alt="图2" width="33%" />
 </p>
+
+## 第六单元 年、月、日
+
+<p align="center">
+  <img src="../../assets/配图/三下/年月日1.png" alt="图1" width="33%" />
+  <img src="../../assets/配图/三下/年月日2.png" alt="图2" width="33%" />
+  <img src="../../assets/配图/三下/年月日3.png" alt="图2" width="33%" />
+</p>
+
+## 第七单元 小数的初步认识
+
+<p align="center">
+  <img src="../../assets/配图/三下/小数1.png" alt="图1" width="45%" />
+  <img src="../../assets/配图/三下/小数2.png" alt="图2" width="45%" />
+</p>
+
+<p align="center">
+  <img src="../../assets/配图/三下/小数3.png" alt="图1" width="45%" />
+  <img src="../../assets/配图/三下/小数4.png" alt="图2" width="45%" />
+</p>
+## 第八单元 数学广角-搭配（二）<a name="数学广角-搭配（二）"></a>
+
+![必背知识点](../../assets/配图/三下/数学广角-搭配（二）.png)
