@@ -4,12 +4,31 @@
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
   <script src="https://unpkg.com/medium-zoom@1.0.6/dist/medium-zoom.min.js"></script>
-  <style>
+<style>
+  /* 默认图片不做处理 */
   img {
-    max-width: 100%;
     height: auto;
+  }
+
+  /* 单张图（大图）使用此类，限制最大宽度并居中 */
+  .img-large {
+    width: 80%;
+    max-width: 800px;
     display: block;
     margin: 1em auto;
+  }
+
+  /* 并排两图容器 */
+  .img-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+    margin: 1em 0;
+  }
+
+  .img-row img {
+    width: 48%;
+    height: auto;
   }
 </style>
 </head>
