@@ -30,41 +30,26 @@
 
 [13、Millard Fillmore： Forgotten](https://wwbs.lanzoue.com/iehL42zo94lg)	密码:85v1
 
-[]()
+[14、Franklin Pierce： Ineffective](https://wwbs.lanzoue.com/i8qKg2zo95ab)	密码:eqbc
 
-[]()
+[15、James Buchanan： Passive](https://wwbs.lanzoue.com/irMn52zo966d)	密码:bujh
 
-[]()
+[16、Abraham Lincoln： Martyr](https://wwbs.lanzoue.com/i9XB22zo96wj)	密码:gusw
 
-[]()
+[17、Andrew Johnson： Impeached](https://wwbs.lanzoue.com/iV7vk2zo97tc)	密码:cdea
 
-[]()
+[18、Ulysses S. Grant： Well-Meaning](https://wwbs.lanzoue.com/i6yf02zo98la)	密码:aehv
 
-[]()
+[19、Rutherford B. Hayes： Middle-of-the-Road](https://wwbs.lanzoue.com/iHgbi2zo99ch)	密码:4b13
 
-[]()
+[20、James Garfield： Assassinated](https://wwbs.lanzoue.com/iz5WQ2zo99za)	密码:gx0g
 
-[]()
+[21、Chester A. Arthur： Surprisingly Good](https://wwbs.lanzoue.com/i1VW12zo9aja)	密码:gjbt
 
-[]()
+[22、Grover Cleveland： Repeated](https://wwbs.lanzoue.com/ilZv82zo9azg)	密码:f9ng
 
-[]()
+[23、Benjamin Harrison： Grandson](https://wwbs.lanzoue.com/inN622zo9bli)	密码:7uvo
 
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 
 
@@ -96,32 +81,22 @@
 
 [13、Millard Fillmore： Forgotten](https://wwbs.lanzoue.com/i2JDn2zo94oj)
 
-[]()
+[14、Franklin Pierce： Ineffective](https://wwbs.lanzoue.com/iU00P2zo95fg)
 
-[]()
+[15、James Buchanan： Passive](https://wwbs.lanzoue.com/i3vZO2zo969g)
 
-[]()
+[16、Abraham Lincoln： Martyr](https://wwbs.lanzoue.com/iSvdf2zo970d)
 
-[]()
+[17、Andrew Johnson： Impeached](https://wwbs.lanzoue.com/iECib2zo97xg)
 
-[]()
+[18、Ulysses S. Grant： Well-Meaning](https://wwbs.lanzoue.com/ipHrp2zo98od)
 
-[]()
+[19、Rutherford B. Hayes： Middle-of-the-Road](https://wwbs.lanzoue.com/iAJ3X2zo99fa)
 
-[]()
+[20、James Garfield： Assassinated](https://wwbs.lanzoue.com/ibzKD2zo9a2d)
 
-[]()
+[21、Chester A. Arthur： Surprisingly Good](https://wwbs.lanzoue.com/iopsn2zo9ane)
 
-[]()
+[22、Grover Cleveland： Repeated](https://wwbs.lanzoue.com/irYmp2zo9b1i)
 
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
+[23、Benjamin Harrison： Grandson](https://wwbs.lanzoue.com/i4WJ02zo9bna)
