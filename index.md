@@ -5,9 +5,19 @@
 
 ### [数学](./learning/三下/math.md)
 
-## 四下
+## 知识
 
-### [语文](./learning/四下/chinese.md)
+### [知识](./learning/knowledge.md)
+
+## VOA英语学习
+
+### [Audio+pdf](./learning/VOA/Audio+pdf.md)
+
+
+
+
+
+## 放松小游戏
 
 安检1				[http://49.232.26.44:8216/anJianSJ1](http://49.232.26.44:8216/anJianSJ1)
 
