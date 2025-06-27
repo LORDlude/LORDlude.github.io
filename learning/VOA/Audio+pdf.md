@@ -50,6 +50,52 @@
 
 [23、Benjamin Harrison： Grandson](https://wwbs.lanzoue.com/inN622zo9bli)	密码:7uvo
 
+[25、William McKinley： Imperial](https://wwbs.lanzoue.com/iI3HB2zo9c7a)	密码:31vn
+
+[26、Theodore Roosevelt： Energetic](https://wwbs.lanzoue.com/igHN02zo9cud)	密码:chcx
+
+[27、William Taft： Heavy](https://wwbs.lanzoue.com/iVMco2zo9dih)	密码:9f9b
+
+[28、Woodrow Wilson： Idealist](https://wwbs.lanzoue.com/i8JCr2zo9e8d)	密码:5cej
+
+[29、Warren Harding： Damaged](https://wwbs.lanzoue.com/i7z7g2zo9evg)	密码:czzx
+
+[30、Calvin Coolidge： Silent](https://wwbs.lanzoue.com/iLhPm2zo9fmd)	密码:1udb
+
+[31、Herbert Hoover： Blamed](https://wwbs.lanzoue.com/ioqJl2zo9g1i)	密码:e11t
+
+[32-1、Franklin D. Roosevelt： Powerful](https://wwbs.lanzoue.com/igdyz2zo9geb)	密码:1zv0
+
+[32-2、Franklin Roosevelt： Powerful (Part 2)](https://wwbs.lanzoue.com/iz1zs2zo9gyb)	密码:2hcs
+
+[33、Harry Truman： Atomic](https://wwbs.lanzoue.com/iFcbH2zo9hoh)	密码:ab71
+
+[34、Dwight Eisenhower： Cold Warrior](https://wwbs.lanzoue.com/iTZrK2zo9i9i)	密码:1zb3
+
+[35、John Kennedy： Young](https://wwbs.lanzoue.com/ivrYz2zo9iuj)	密码:2a99
+
+[36、Lyndon Johnson： Complicated](https://wwbs.lanzoue.com/ie9LE2zo9jej)	密码:e8bx
+
+[37、Richard Nixon： Resigned](https://wwbs.lanzoue.com/ijYPq2zo9k6h)	密码:5wmc
+
+[38、Gerald Ford： Unelected](https://wwbs.lanzoue.com/iYpJK2zo9kof)	密码:8zdm
+
+[39、Jimmy Carter： Outsider](https://wwbs.lanzoue.com/icFkQ2zo9l9g)	密码:a9qp
+
+[40、Ronald Reagan： Communicator](https://wwbs.lanzoue.com/iPA0w2zo9lvi)	密码:67zp
+
+[41、George H.W. Bush： Cautious](https://wwbs.lanzoue.com/ifTKQ2zo9meh)	密码:3v06
+
+[42、Bill Clinton： Survivor](https://wwbs.lanzoue.com/iAX1c2zo9n2b)	密码:7qzd
+
+[43、George W. Bush： Wartime President](https://wwbs.lanzoue.com/idOfy2zo9nhg)	密码:euu8
+
+[44、Barack Obama： African-American](https://wwbs.lanzoue.com/iVsAd2zo9nsh)	密码:d8ki
+
+[45、Donald Trump： Unusual](https://wwbs.lanzoue.com/ivVzB2zo9o8d)	密码:4bun
+
+[46、Joe Biden： Oldest](https://wwbs.lanzoue.com/iQlFN2zo9oid)	密码:cqau
+
 
 
 
@@ -100,3 +146,49 @@
 [22、Grover Cleveland： Repeated](https://wwbs.lanzoue.com/irYmp2zo9b1i)
 
 [23、Benjamin Harrison： Grandson](https://wwbs.lanzoue.com/i4WJ02zo9bna)
+
+[25、William McKinley： Imperial](https://wwbs.lanzoue.com/iBGxa2zo9cad)
+
+[26、Theodore Roosevelt： Energetic](https://wwbs.lanzoue.com/iKQjq2zo9d1a)
+
+[27、William Taft： Heavy](https://wwbs.lanzoue.com/iLoK62zo9dla)
+
+[28、Woodrow Wilson： Idealist](https://wwbs.lanzoue.com/iNfPX2zo9ech)
+
+[29、Warren Harding： Damaged](https://wwbs.lanzoue.com/iZWYz2zo9exi)
+
+[30、Calvin Coolidge： Silent](https://wwbs.lanzoue.com/ijgX02zo9fof)
+
+[31、Herbert Hoover： Blamed](https://wwbs.lanzoue.com/iS5Ct2zo9g3a)
+
+[32-1、Franklin D. Roosevelt： Powerful](https://wwbs.lanzoue.com/iPA6P2zo9ggd)
+
+[32-2、Franklin Roosevelt： Powerful (Part 2)](https://wwbs.lanzoue.com/iE6h22zo9gzc)
+
+[33、Harry Truman： Atomic](https://wwbs.lanzoue.com/iCqZA2zo9hqj)
+
+[34、Dwight Eisenhower： Cold Warrior](https://wwbs.lanzoue.com/ipJPJ2zo9iba)
+
+[35、John Kennedy： Young](https://wwbs.lanzoue.com/i5mpi2zo9ixc)
+
+[36、Lyndon Johnson： Complicated](https://wwbs.lanzoue.com/ipkrw2zo9jhc)
+
+[37、Richard Nixon： Resigned](https://wwbs.lanzoue.com/isFxk2zo9k8j)
+
+[38、Gerald Ford： Unelected](https://wwbs.lanzoue.com/iO9WA2zo9ksj)
+
+[39、Jimmy Carter： Outsider](https://wwbs.lanzoue.com/iPmOv2zo9lcj)
+
+[40、Ronald Reagan： Communicator](https://wwbs.lanzoue.com/iWFMO2zo9lwj)
+
+[41、George H.W. Bush： Cautious](https://wwbs.lanzoue.com/iGrRx2zo9mgj)
+
+[42、Bill Clinton： Survivor](https://wwbs.lanzoue.com/iRYl92zo9n5e)
+
+[43、George W. Bush： Wartime President](https://wwbs.lanzoue.com/iBb9T2zo9nji)
+
+[44、Barack Obama： African-American](https://wwbs.lanzoue.com/irdUn2zo9nva)
+
+[45、Donald Trump： Unusual](https://wwbs.lanzoue.com/ius0C2zo9o9e)
+
+[46、Joe Biden： Oldest](https://wwbs.lanzoue.com/idYMA2zo9olg)
