@@ -55,3 +55,12 @@ ffmpeg -i input.mp4 -codec copy -bsf: h264_mp4toannexb -f h264 output.264
 ffmpeg -i video.mp4 -codec copy -f h264 video.h264
 ```
 
+## 环境变量去重清理工具
+
+**key1：**
+
+`EnvMan.exe`
+
+**key2：**
+
+`WindowsPathEditor`
