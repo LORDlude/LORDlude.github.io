@@ -21,4 +21,14 @@
 
 ## PHET仿真实验
 
+<span style="color: red;">**！！！注意：这部分是从PHET官网下载的离线资源包，纯个人学习使用，勿用于商业盈利。**</span>
+
 ### [生物学](./learning/PHET/生物学)
+
+### [物理](./learning/PHET/物理)
+
+### [化学](./learning/PHET/化学)
+
+### [数学与统计](./learning/PHET/数学与统计)
+
+### [地球与空间](./learning/PHET/地球与空间)
